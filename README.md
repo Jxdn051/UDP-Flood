@@ -1,4 +1,4 @@
-# UDP-Flood
+# Simple UDP-Flood
 Don't use it carelessly, I'm just suggesting it, thank you.
 
 ### How to use
